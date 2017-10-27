@@ -20,10 +20,4 @@ public class NumberInExpandedForm {
 		
 		return result;
 	}
-	
-	public static void main(String[] args) {
-		System.out.println(expandedForm(12));
-		System.out.println(expandedForm(42));
-		System.out.println(expandedForm(70304));
-	}
 }
