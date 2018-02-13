@@ -1,0 +1,1 @@
+>2000ms넘어서 실패. 타입 전환이 너무 많았던것같다 https://stackoverflow.com/questions/2170872/does-java-casting-introduce-overhead-why for loop로 1씩 증가하면서 찾는것도 한몫한듯
